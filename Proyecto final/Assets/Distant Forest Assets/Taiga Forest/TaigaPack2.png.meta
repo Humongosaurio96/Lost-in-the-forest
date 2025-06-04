@@ -50,7 +50,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -115,7 +115,491 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: TaigaPack2_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 576
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60b6cc75ea0671498f47847603cefef
+      internalID: -760529236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaigaPack2_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 576
+        width: 120
+        height: 24
+      alignment: 9
+      pivot: {x: 0.44688243, y: 0.6316859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a7cc08dab6a1d4995a08e47acfa81c
+      internalID: 578887365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaigaPack2_2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 383
+        width: 193
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabf3f92a4a163c47a494fa0255456bb
+      internalID: -1627105763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaigaPack2_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 384
+        width: 78
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576b7d9359c5ec7469b454418ad85379
+      internalID: -2061874254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaigaPack2_4
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 512
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cec56d2d0db824eb86ef3766f74933
+      internalID: -683458042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaigaPack2_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 384
+        width: 84
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7855dff32ab2ed740a11581c587c75eb
+      internalID: 1843248068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaigaPack2_6
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 384
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2feb2bcfa477579458a19fd12faafeb0
+      internalID: -676901709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaigaPack2_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 319
+        width: 77
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0acc4a4c2b9baf4e9c621387273bc18
+      internalID: 739241378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaigaPack2_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 320
+        width: 88
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aea306ed50550e4e82fff15c9d9d7c9
+      internalID: 1325679218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaigaPack2_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 320
+        width: 78
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4d117b513c00344baa540c895afc63
+      internalID: 749337707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaigaPack2_10
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 128
+        width: 97
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e68e166ce8df744699cd62321dde7e4
+      internalID: -1798496563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaigaPack2_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 320
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7a160a70fe25041961a165bbe9d2f5
+      internalID: 706598853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaigaPack2_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 320
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efcdc783f153d34bb3afe0c1f2dd4a9
+      internalID: -1888721875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaigaPack2_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 192
+        width: 165
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4589d0fa862d7ca42af825541a644fe6
+      internalID: -2030544217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaigaPack2_14
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 256
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb532abd94443747ace67d75e41306b
+      internalID: 1626085740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaigaPack2_15
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 256
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4b11a5628c8054783cd469d7063d58
+      internalID: -623265563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaigaPack2_16
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 192
+        width: 81
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2464c3ee4753bf54fb500a252b6d8791
+      internalID: 1767149799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaigaPack2_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 76
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061ddd87fe5bb804ba38def4aab8344f
+      internalID: 1338967138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaigaPack2_18
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 47
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce765271068fc14b9ed4c9f3da5a4ca
+      internalID: 1296072678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaigaPack2_19
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 59
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbd6789403958a4ba138da4c03d0bad
+      internalID: 1804073937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaigaPack2_20
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 118
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6864b41445890234da8435010ad399df
+      internalID: -1925250477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TaigaPack2_21
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 124
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5b3d4c6d0981d4c9ab3fb57589de31
+      internalID: -1506367499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -129,7 +613,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TaigaPack2_0: -760529236
+      TaigaPack2_1: 578887365
+      TaigaPack2_10: -1798496563
+      TaigaPack2_11: 706598853
+      TaigaPack2_12: -1888721875
+      TaigaPack2_13: -2030544217
+      TaigaPack2_14: 1626085740
+      TaigaPack2_15: -623265563
+      TaigaPack2_16: 1767149799
+      TaigaPack2_17: 1338967138
+      TaigaPack2_18: 1296072678
+      TaigaPack2_19: 1804073937
+      TaigaPack2_2: -1627105763
+      TaigaPack2_20: -1925250477
+      TaigaPack2_21: -1506367499
+      TaigaPack2_3: -2061874254
+      TaigaPack2_4: -683458042
+      TaigaPack2_5: 1843248068
+      TaigaPack2_6: -676901709
+      TaigaPack2_7: 739241378
+      TaigaPack2_8: 1325679218
+      TaigaPack2_9: 749337707
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
